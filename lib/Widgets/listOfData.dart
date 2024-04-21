@@ -1,0 +1,103 @@
+
+class ListOfData {
+  static List<String> languages = [
+    "English",
+    "Hindi",
+    "Assamese",
+    "Bengali",
+    "Dogri",
+    "Gujarati",
+    "Kannada",
+    "Kashmiri",
+    "Konkani",
+    "Maithili",
+    "Malayalam",
+    "Manipuri",
+    "Marathi",
+    "Nepali",
+    "Odia",
+    "Panjabi",
+    "Sanskrit",
+    "Santali",
+    "Sindhi",
+    "Tamil",
+    "Telugu",
+    "Urdu",
+    "Other"
+  ];
+
+  static List<String> yourPreference = [
+    'Straight',
+    'Gay',
+    'Lesbian',
+    'Bisexual',
+    'Asexual',
+    'Demisexual',
+    'Pansexual',
+    'Queer',
+    'Bicurious',
+    'Aromatic',
+  ];
+
+  static List<String> gender = ["Man", "Women", "Everyone"];
+
+  static List<String> interestForFreeTime=[
+    "Reading",
+    "Writing",
+    "Drawing",
+    "Painting",
+    "Singing",
+    "Dancing",
+    "Playing Musical Instruments",
+    "Cooking",
+    "Gardening",
+    "Travelling",
+    "Photography",
+    "Watching Movies",
+    "Playing Video Games",
+    "Playing Sports",
+    "Hiking",
+    "Camping",
+    "Fishing",
+    "Hunting",
+    "Meditation",
+    "Yoga",
+    "Music",
+    "Movies",
+    "Sports",
+    "Gaming",
+    "Art",
+    "Dancing",
+    "Fashion",
+    "Football",
+    "Other"
+  ];
+
+  static List<String> jobTitles =[
+    "Software Engineer/Developer",
+    "Business Development Manager",
+    "Sales Executive/Manager",
+    "Accountant/Chartered Accountant",
+    "Marketing Manager/Digital Marketing Specialist",
+    "Human Resources Manager/HR Executive",
+    "Customer Support Representative",
+    "Financial Analyst",
+    "Operations Manager",
+    "Data Analyst/Scientist",
+    "Content Writer/Copywriter",
+    "Graphic Designer",
+    "Civil Engineer",
+    "Mechanical Engineer",
+    "Electrical Engineer",
+    "Project Manager",
+    "Operations Executive",
+    "IT Consultant",
+    "Quality Assurance Analyst",
+    "Legal Advisor/Lawyer",
+    "Doctor/Physician",
+    "Nurse",
+    "Pharmacist",
+    "Dentist",
+    "Other"
+  ];
+}
